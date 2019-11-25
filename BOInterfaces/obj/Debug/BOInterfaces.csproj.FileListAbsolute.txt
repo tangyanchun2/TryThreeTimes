@@ -1,0 +1,7 @@
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\bin\Debug\BOInterfaces.dll
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\bin\Debug\BOInterfaces.pdb
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\bin\Debug\BOModels.dll
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\bin\Debug\BOModels.pdb
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\obj\Debug\BOInterfaces.csprojResolveAssemblyReference.cache
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\obj\Debug\BOInterfaces.dll
+D:\TryThreeTimes\TryThreeTimes\BOInterfaces\obj\Debug\BOInterfaces.pdb

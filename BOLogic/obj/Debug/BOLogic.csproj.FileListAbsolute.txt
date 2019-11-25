@@ -1,0 +1,9 @@
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOLogic.dll
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOLogic.pdb
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOInterfaces.dll
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOModels.dll
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOInterfaces.pdb
+D:\TryThreeTimes\TryThreeTimes\BOLogic\bin\Debug\BOModels.pdb
+D:\TryThreeTimes\TryThreeTimes\BOLogic\obj\Debug\BOLogic.csprojResolveAssemblyReference.cache
+D:\TryThreeTimes\TryThreeTimes\BOLogic\obj\Debug\BOLogic.dll
+D:\TryThreeTimes\TryThreeTimes\BOLogic\obj\Debug\BOLogic.pdb

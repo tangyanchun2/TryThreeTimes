@@ -1,0 +1,5 @@
+D:\TryThreeTimes\TryThreeTimes\BOModels\bin\Debug\BOModels.dll
+D:\TryThreeTimes\TryThreeTimes\BOModels\bin\Debug\BOModels.pdb
+D:\TryThreeTimes\TryThreeTimes\BOModels\obj\Debug\BOModels.csprojResolveAssemblyReference.cache
+D:\TryThreeTimes\TryThreeTimes\BOModels\obj\Debug\BOModels.dll
+D:\TryThreeTimes\TryThreeTimes\BOModels\obj\Debug\BOModels.pdb

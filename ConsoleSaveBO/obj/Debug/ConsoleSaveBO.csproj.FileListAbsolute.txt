@@ -1,0 +1,12 @@
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\ConsoleSaveBO.exe.config
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\ConsoleSaveBO.exe
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\ConsoleSaveBO.pdb
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOInterfaces.dll
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOLogic.dll
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOModels.dll
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOInterfaces.pdb
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOLogic.pdb
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\bin\Debug\BOModels.pdb
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\obj\Debug\ConsoleSaveBO.csprojResolveAssemblyReference.cache
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\obj\Debug\ConsoleSaveBO.exe
+D:\TryThreeTimes\TryThreeTimes\ConsoleSaveBO\obj\Debug\ConsoleSaveBO.pdb

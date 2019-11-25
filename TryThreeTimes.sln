@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02Business", "02Business", "{A85B48DF-32A3-4496-A869-FB98A19B0FD9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01Model", "01Model", "{DD7F512F-1483-49D3-91E2-D74FD09D5801}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03Main", "03Main", "{2BE36E55-F07F-40C1-9093-C61AE20A9FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOModels", "BOModels\BOModels.csproj", "{340156E1-A481-4B2B-8122-DE7CFF9CA37A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOInterfaces", "BOInterfaces\BOInterfaces.csproj", "{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOLogic", "BOLogic\BOLogic.csproj", "{9493EEE7-9010-48A3-90C2-94BD30B23A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSaveBO", "ConsoleSaveBO\ConsoleSaveBO.csproj", "{E1DF43F1-C5DF-4380-BF90-6D461139897F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340156E1-A481-4B2B-8122-DE7CFF9CA37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340156E1-A481-4B2B-8122-DE7CFF9CA37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340156E1-A481-4B2B-8122-DE7CFF9CA37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340156E1-A481-4B2B-8122-DE7CFF9CA37A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9493EEE7-9010-48A3-90C2-94BD30B23A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9493EEE7-9010-48A3-90C2-94BD30B23A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9493EEE7-9010-48A3-90C2-94BD30B23A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9493EEE7-9010-48A3-90C2-94BD30B23A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DF43F1-C5DF-4380-BF90-6D461139897F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DF43F1-C5DF-4380-BF90-6D461139897F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DF43F1-C5DF-4380-BF90-6D461139897F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DF43F1-C5DF-4380-BF90-6D461139897F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{340156E1-A481-4B2B-8122-DE7CFF9CA37A} = {DD7F512F-1483-49D3-91E2-D74FD09D5801}
+		{4E0CAE7D-2FC8-4299-AE76-18385AFCB48C} = {A85B48DF-32A3-4496-A869-FB98A19B0FD9}
+		{9493EEE7-9010-48A3-90C2-94BD30B23A68} = {A85B48DF-32A3-4496-A869-FB98A19B0FD9}
+		{E1DF43F1-C5DF-4380-BF90-6D461139897F} = {2BE36E55-F07F-40C1-9093-C61AE20A9FFE}
+	EndGlobalSection
+EndGlobal
